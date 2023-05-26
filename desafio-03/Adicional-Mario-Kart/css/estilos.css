@@ -1,0 +1,11 @@
+body {
+    background-color: #e11364;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    color: #e11364;
+    border: 5px solid #bc105c;
+}
